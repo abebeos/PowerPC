@@ -22,8 +22,9 @@ You don't need a PowerPC to start development.
 * Provide a near-zero-efffort ppc64le dev-system setup
     * => Enable more developers to focus on issues at hand (instead of setup)
     * => Enable developers without ppc hardware to work on ppc isssues
-* Specify a generic porting-process
-    * draft: clarity, decoupling
+    * => max 1 day work-in (excl. git, bash, docker)
+* Specify a generic add-ppc64-support-process
+    * draft: tools, clarity, decoupling
 * JITLink Implementation
     * Refactor relevant RtDyld code (strict, for clarity only)
     * Split down further tasks (e.g. JITLink implementation) into manageable chunks
