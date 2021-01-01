@@ -19,8 +19,16 @@ You don't need a PowerPC to start development.
 
 (draft)
 
-* Provide a base PowerPC dev environment
-    * Provide a specific PowerPC dev-env (numba/llvmlite/llvm)
+* Provide a near-zero-efffort ppc64le dev-system setup
+    * => Enable more developers to focus on issues at hand (instead of setup)
+    * => Enable developers without ppc hardware to work on ppc isssues
 * Specify a generic porting-process
-    * Specific: LLVM PowerPC JITLink Implementation 
-
+    * draft: clarity, decoupling
+* JITLink Implementation
+    * Refactor relevant RtDyld code (strict, for clarity only)
+    * Split down further tasks (e.g. JITLink implementation) into manageable chunks
+    * Assess overall effort
+    * Provide info-streams re llvm/numba ppc development
+        * => easily subscribe to ppc-related issues and commits
+    
+  
