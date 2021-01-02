@@ -19,17 +19,19 @@ You don't need a PowerPC to start development.
 
 (draft)
 
-* Provide a near-zero-efffort ppc64le dev-system setup
-    * => Enable more developers to focus on issues at hand (instead of setup)
-    * => Enable developers without ppc hardware to work on ppc isssues
-    * => max 1 day work-in (excl. git, bash, docker)
+Follow-up tasks to numba-4026 (timepoint: now, as the domain-knowledge is active)
+
+* - [ ] #1 Refactor llvm RuntimeDyldELF for Clarity
+* - [ ] #2 Provide a Near-Zero-Efffort PowerPC Dev-System Setup
+    * - [ ] #3 Provide a numba Core-Dev-System Setup
+* - [ ] #4 Provide PowerPC llvm JITLink Implementation
+
+
+
+### General
+
 * Specify a generic add-ppc64-support-process
     * draft: tools, clarity, decoupling
-* JITLink Implementation
-    * Refactor relevant RtDyld code (strict, for clarity only)
-    * Split down further tasks (e.g. JITLink implementation) into manageable chunks
-    * Assess overall effort
-    * Provide info-streams re llvm/numba ppc development
-        * => easily subscribe to ppc-related issues and commits
-    
+* Provide info-streams re llvm/numba ppc development
+    * => easily subscribe to ppc-related issues and commits    
   
