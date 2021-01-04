@@ -26,12 +26,20 @@ Follow-up tasks to numba-4026 (timepoint: now, as the domain-knowledge is active
     * - [ ] #3 Provide a numba Core-Dev-System Setup
 * - [ ] #4 Provide PowerPC llvm JITLink Implementation
 
+### Numba
+
+* Verify necessity to back-port https://reviews.llvm.org/D81126?id=274770
+* Drastically simplify numba core-dev-env (for dev-work on numba/llvmlite/llvm itself) setup
+* Provide Parallel Testsuite Execution which completes despite timeouts and crashes like segfaults.
+* Allow to select reloc-mode via cli/config
 
 
 ### General
 
 * Specify a generic add-ppc64-support-process
     * draft: tools, clarity, decoupling
+* Drastically Simplify Provisioning of ppc64le VPS Instance
+* Provide Method to setup ppc64le-CI, even if main project does not    
 * Provide info-streams re llvm/numba ppc development
     * => easily subscribe to ppc-related issues and commits    
   
