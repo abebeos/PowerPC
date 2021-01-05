@@ -32,6 +32,7 @@ Follow-up tasks to numba-4026 (timepoint: now, as the domain-knowledge is active
 * Drastically simplify numba core-dev-env (for dev-work on numba/llvmlite/llvm itself) setup
 * Provide Parallel Testsuite Execution which completes despite timeouts and crashes like segfaults.
 * Allow to select reloc-mode via cli/config
+* Investigate Test Fork-Issues on High-Core-Count Systems
 
 
 ### General
