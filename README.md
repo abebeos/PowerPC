@@ -1,6 +1,6 @@
 (early draft)
 
-# Barrier-Free PowerPC SW-Development.
+# Barrier-Free PowerPC OSS-Development.
 
 
 
@@ -20,3 +20,4 @@
 
 ## Terminology
 
+(...)
