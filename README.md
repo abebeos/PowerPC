@@ -12,7 +12,11 @@
 
 ## Initial Dev-System
 
-You don't need a PowerPC to start development. 
-
 (draft)
+
+## Hands-On-Examples
+
+* Fixing a ppc related bug in numba
+
+## Terminology
 
