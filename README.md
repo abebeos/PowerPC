@@ -17,6 +17,8 @@
 ## Hands-On-Examples
 
 * Fixing a ppc related bug in numba
+    * Barriers and Solutions
+        * Make Solutions Reusable
 
 ## Terminology
 
