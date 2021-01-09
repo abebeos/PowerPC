@@ -1,6 +1,6 @@
 (early draft)
 
-# Speed-up  PowerPC SW-Development.
+# Barrier-Free PowerPC SW-Development.
 
 
 
