@@ -5,7 +5,7 @@
 ## What are we doing here?
 
 * We process several PowerPC OSS related development taskσ.
-* We identify barriers and file issues.
+* We identify barriers and file them as issues.
 * We process those issues in order to eliminate the barriers.
 
 ## Why?
