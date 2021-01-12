@@ -2,13 +2,13 @@
 
 # Barrier-Free PowerPC OSS-Development.
 
-What are we doing here?
+## What are we doing here?
 
-* We process several PowerPC OSS related development task.
+* We process several PowerPC OSS related development taskσ.
 * We identify barriers and file issues.
 * We process those issues in order to eliminate the barriers.
 
-Why?
+## Why?
 
 This results in a more barrier-free PowerPC OSS Development, which makes it more accessible to interested newcomers.
 
