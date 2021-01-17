@@ -24,18 +24,14 @@ This results in a more barrier-free PowerPC OSS Development, which makes it more
 
 ## Initial Dev-System
 
-(draft)
+(draft, execute issue, then provide compact instructions here)
+
+https://github.com/abebeos/PowerPC/issues/2
+
 
 ## CI
 
-()
+(draft, execute issue, then provide compact instructions here)
 
-## Hands-On-Examples
+https://github.com/abebeos/PowerPC/issues/7
 
-* Fixing a ppc related bug in numba
-    * Barriers and Solutions
-        * Make Solutions Reusable
-
-## Terminology
-
-(...)
