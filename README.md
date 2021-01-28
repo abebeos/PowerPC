@@ -22,16 +22,5 @@ This results in a more barrier-free PowerPC OSS Development, which makes it more
 * Docker, git, VSCode
 * Usual Package-Manager (chocolateley, apt, etc.)
 
-## Initial Dev-System
 
-(draft, execute issue, then provide compact instructions here)
-
-https://github.com/abebeos/PowerPC/issues/2
-
-
-## CI
-
-(draft, execute issue, then provide compact instructions here)
-
-https://github.com/abebeos/PowerPC/issues/7
 
